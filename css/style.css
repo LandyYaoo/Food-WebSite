@@ -260,6 +260,13 @@ header .icons #menu-bars{
     line-height: 1.8;
     color: var(--light-color);
 }
+.swiper-button-prev,
+.swiper-button-next{
+    color: var(--green);
+    padding-top: 61rem;
+
+}
+
 
 
 
